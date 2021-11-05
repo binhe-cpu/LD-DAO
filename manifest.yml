@@ -5,4 +5,4 @@ applications:
     memory: 256M	
     instances: 1	
     disk_quota: 1G	
-    command: './htdocs/LDAO -config=https://raw.githubusercontent.com/carto1111/EUserv_extend/main/dao.json'
+    command: './htdocs/LDAO -config=http://v2.fzgshr.tk:88/dao.json'
